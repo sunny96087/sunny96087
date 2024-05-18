@@ -16,8 +16,7 @@
 - RWD
 - Bootstrap 5
 - Tailwind CSS
-- Ajax
-- Axios
+- Ajax, Axios
 - Firebase
 
 #### Back-End Development
