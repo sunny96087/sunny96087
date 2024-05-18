@@ -36,7 +36,7 @@
 - Illustrator
 
 ## 📮 Contact
-You can reach me at yain13142013@gmail.com
+You can reach me at [Email](mailto:yain13142013@gmail.com)
 
 ## 🗂 Portfolio
 
