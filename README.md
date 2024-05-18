@@ -1,10 +1,11 @@
-# 👋 Hi there, I'm 余誼姍 (2fish)
+### 👋 Hi there, I'm 余誼姍 (2fish)
 
-## 🌱 Junior Full-Stack Web Developer
+#### 🌱 Junior Full-Stack Web Developer
+#### 📮 You can reach me at [Email](mailto:yain13142013@gmail.com)
 
-## 💻 Skills
+### 💻 Skills
 
-### Front-End Development
+#### Front-End Development
 - HTML
 - CSS, SCSS
 - JavaScript
@@ -19,7 +20,7 @@
 - Axios
 - Firebase
 
-### Back-End Development
+#### Back-End Development
 - Node.js
 - MySQL
 - MongoDB
@@ -27,7 +28,7 @@
 - PHP
 - MSSQL
 
-### UI/UX Design
+#### UI/UX Design
 - Figma
 - Mockup
 - Photoshop
@@ -35,10 +36,7 @@
 - Prototype
 - Illustrator
 
-## 📮 Contact
-You can reach me at [Email](mailto:yain13142013@gmail.com)
-
-## 🗂 Portfolio
+### 🗂 Portfolio
 
 | Project | Description | Links |
 |---------|-------------|-------|
